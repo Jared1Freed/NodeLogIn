@@ -1,0 +1,34 @@
+body{
+    background-color: aqua;
+}
+body{
+    background-color: aqua;
+}
+
+table, td{
+    border: 1px solid;
+    text-size-adjust: 10;
+    
+}
+h1{
+    align-content: center;
+}
+.tac{
+    text-align: center;
+    border: 1px coral;
+    height: 10vh;
+    width: 20vw;
+    padding: 20px;
+    margin-left: 40px;
+    margin-right: 80px;
+    float: inline-end;
+    
+}
+.hover:hover {
+  background-color: #008CBA;
+  color: white;
+}
+h2{
+    font-size: 50px;
+    color: black;
+}
